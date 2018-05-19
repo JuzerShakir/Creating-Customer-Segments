@@ -5,7 +5,7 @@
 ### Table Of Contents:
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
-    - [What needs to be done?](#what-needs-to-be-done?)<>br>
+    - [What needs to be done?](#what-needs-to-be-done?)<br>
     - [Why this project?](#why-this-project?)<br>
 - [Data](#data)<br>
     - [Files](#files)<br>
@@ -14,7 +14,7 @@
     - [Requirements](#requirements)<br>
     - [Execution](#execution)<br>
 - [Conclusion](#conclusion)<br>
-    - [What I learned](#what-I-learned)<br>
+    - [What I learned](#what-i-learned)<br>
     - [Evaluation](#evaluation)
     - [Results](#results)
 
@@ -51,7 +51,7 @@ Template code is provided in the `customer_segments.ipynb` notebook file. I have
 > **Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended to manipulate.** If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
 
-## Dataset file
+#### Dataset file
 
 The customer segments data is included as a selection of 440 data points collected on data found from clients of a wholesale distributor in Lisbon, Portugal. More information can be found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers).
 
@@ -103,7 +103,7 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 
 ### Conclusion
 
-#### What I learned:
+#### What I learned
 
 - How to apply preprocessing techniques such as feature scaling and outlier detection.
 - How to interpret data points that have been scaled, transformed, or reduced from PCA.
