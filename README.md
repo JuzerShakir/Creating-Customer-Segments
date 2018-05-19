@@ -5,8 +5,8 @@
 ### Table Of Contents:
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
-    - [What needs to be done?](#what-needs-to-be-done)<br>
-    - [Why this project?](#why-this-project-?)<br>
+    - [What needs to be done](#what-needs-to-be-done)<br>
+    - [Why this project](#why-this-project)<br>
 - [Data](#data)<br>
     - [Files](#files)<br>
     - [Dataset file](#dataset-file)<br>
@@ -30,7 +30,7 @@ A wholesale distributor recently tested a change to their delivery method for so
 
 In this project I have applied unsupervised learning techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data. I first explored the data by selecting a small subset to sample and determine if any product categories highly correlate with one another. Afterwards, I preprocessed the data by scaling each product category and then identifying (and removing) unwanted outliers. With the good, clean customer spending data, I applied PCA transformations to the data and implement clustering algorithms to segment the transformed customer data. Finally, I compared the segmentation found with an additional labeling and consider ways this information could assist the wholesale distributor with future service changes.
 
-#### Why this project?
+#### Why this project
 
 This project is designed to give us a hands-on experience with unsupervised learning and work towards developing conclusions for a potential client on a real-world dataset. Many companies today collect vast amounts of data on customers and clientele, and have a strong desire to understand the meaningful relationships hidden in their customer base. Being equipped with this information can assist a company engineer future products and services that best satisfy the demands or needs of their customers.
 
