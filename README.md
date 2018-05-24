@@ -116,7 +116,7 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 My project was reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/105/view" target="_blank">Creating Customer Segments project rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
 
 #### Results
-[My Project Review by an Udacity Reviewer]()
+[My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/1236700)
 
 ----
 
