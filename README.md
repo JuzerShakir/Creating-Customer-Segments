@@ -2,6 +2,8 @@
 # Unsupervised Learning
 ## Project: Creating Customer Segments
 
+<p align = 'center'><img src = 'customer_segments_logo.jpg'></p>
+
 ### Table Of Contents:
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
