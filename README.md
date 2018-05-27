@@ -96,11 +96,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `Creating-Customer-Segments/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook Finding_Donors.ipynb
+ipython notebook customer_segments.ipynb
 ```  
 or
 ```bash
-jupyter notebook Finding_Donors.ipynb
+jupyter notebook customer_segments.ipynb
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
