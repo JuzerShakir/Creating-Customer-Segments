@@ -2,7 +2,7 @@
 # Unsupervised Learning
 ## Project: Creating Customer Segments
 
-<p align = 'center'><img src = 'customer_segments_logo.jpg', height=412, width =412></p>
+<p align = 'center'><img src = 'logo.jpg', height=412, width =412></p>
 
 ----
 
